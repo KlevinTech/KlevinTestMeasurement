@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'KlevinTestMeasurement'
-    s.version          = '1.0.0'
+    s.version          = '1.0.1'
     s.summary          = '游可赢广告SDK接入自检工具'
 
     s.description      = <<-DESC
